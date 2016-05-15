@@ -1,0 +1,28 @@
+{
+  "name": "homebridge-mqttmotion",
+  "version": "1.0.0",
+  "description": "MQTT motion sensor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bertouttier/homebridge-mqttmotion.git"
+  },
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "keywords": [
+    "mqtt",
+    "motion",
+    "homebridge-plugin"
+  ],
+  "author": "Bert Outtier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bertouttier/homebridge-mqttmotion/issues"
+  },
+  "homepage": "https://github.com/bertouttier/homebridge-mqttmotion#readme"
+}
